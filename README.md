@@ -1,8 +1,28 @@
+
+
+
+# Hello World! 🌍
+
+I'm Mykhailo, a Full-Stack Engineer with a deep commitment to actualizing web applications. Over the past 4 years, my journey in the digital realm has seen consistent growth, reflecting my dedication and meticulous approach to every project.
+
+
+## 🚀 Tech Stack & Skills
+
+- **Languages & Frameworks**: JavaScript, Node.js, Express.js, React, Next.js .NET, C#, Python, Regex
+- **Databases**: SQL Server, MongoDB
+- **Data Formats and Selectors**: JSON, XPath, CSS Path, XML
+- **Tools**: Git, Photoshop, Azure, AWS, Heroku
+- **Interests**: Web Scraping, Machine Learning, Cloud Computing
+
+## 📊 My GitHub Stats
+
 ![](https://raw.githubusercontent.com/morrifis/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/morrifis/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ![](https://raw.githubusercontent.com/Morrifis/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Morrifis/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+Passionate about code, I believe in continuous learning and the power of collaboration. Let's connect and create something amazing together! ✨
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morrifis&show_icons=true&theme=radical)
