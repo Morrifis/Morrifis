@@ -1,5 +1,9 @@
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/morrifis/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/morrifis/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/Morrifis/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Morrifis/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Morrifis&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Morrifis)](https://github.com/anuraghazra/github-readme-stats)
