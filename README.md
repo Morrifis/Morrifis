@@ -3,7 +3,8 @@
 
 # Hello World! 🌍
 
-I'm Mykhailo, a Full-Stack Engineer with a deep commitment to actualizing web applications. Over the past 4 years, my journey in the digital realm has seen consistent growth, reflecting my dedication and meticulous approach to every project.
+Experienced Software Engineer with a comprehensive background in full-stack development, team leadership, and entrepreneurial initiatives. Demonstrated expertise in designing, implementing, and optimizing software solutions that enhance business value. Seeking a Senior Developer position to leverage my technical proficiency and innovative problem-solving capabilities.
+
 
 
 ## 🚀 Tech Stack & Skills
